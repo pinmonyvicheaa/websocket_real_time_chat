@@ -65,12 +65,12 @@ php artisan queue:listen
 php artisan serve
 ```
 
+I ran "npm run dev:tailwind" instead of "npm run dev" since the project uses a custom Tailwind theme built using the Laravel Themer package.
+
 - Now it should be running at:
 ```
 http://127.0.0.1:8000
 ```
-
-I ran "npm run dev:tailwind" instead of "npm run dev" since the project uses a custom Tailwind theme built using the Laravel Themer package.
 
 ## Demo:
 
