@@ -6,8 +6,8 @@ This project is a basic setup for building a real-time app using Laravel, Larave
 
 Step 1: Clone the Repository
 ```
-git clone https://github.com/pinmonyvicheaa/ecommerce-laravel-api.git
-cd ecommerce-laravel-api
+git clone https://github.com/pinmonyvicheaa/websocket_real_time_chat.git
+cd websocket_real_time_chat
 ```
 
 Step 2: Install Dependencies
